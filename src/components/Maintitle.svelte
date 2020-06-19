@@ -1,6 +1,7 @@
 <script>
   export let title;
   export let description;
+  export let category;
 </script>
 
 <style>
@@ -30,7 +31,7 @@
 </style>
 
 <div class="Maintitle">
-  <div class="Maintitle-category">Tegnología</div>
+  <div class="Maintitle-category">{category}</div>
   <h1>{title}</h1>
   <p>{description}</p>
 </div>

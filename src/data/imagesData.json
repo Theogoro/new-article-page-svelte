@@ -15,8 +15,15 @@
   "homeOfficeImage": {
     "url": "https://images.pexels.com/photos/3787903/pexels-photo-3787903.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
     "caption": {
-      "text": "",
+      "text": " ",
       "author": "Bongkarn Thanyakij para pexels.com"
+    }
+  },
+  "versusImage": {
+    "url": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "caption": {
+      "text": " ",
+      "author": "Christina Morillo para pexels.com"
     }
   }
 }

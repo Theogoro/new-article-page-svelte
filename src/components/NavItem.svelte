@@ -7,6 +7,7 @@
     text-decoration: none;
     color: rgb(129, 129, 129);
     transition: 1s;
+    font-size: 1rem;
   }
   .Nav-item {
     list-style-type: none;

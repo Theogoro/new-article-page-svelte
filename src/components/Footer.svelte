@@ -23,7 +23,7 @@
   <div class="Footer-author">
     <p>Theo Berta - theoberta@gmail.com - 2020</p>
     <a href="https://github.com/Theogoro/new-article-page-svelte">
-      Repositorio
+      👾 Repositorio
     </a>
   </div>
 </footer>
