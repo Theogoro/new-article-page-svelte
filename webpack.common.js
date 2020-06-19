@@ -44,7 +44,7 @@ module.exports = {
     new htmlWebpackPlugin({
       template: "src/index.html",
       filename: "index.html",
-      title: "",
+      title: "TP RRHH - Berta Theo",
       chunks: ["index"],
       // favicon: "src/assets/images/favicon.png",
     }),
