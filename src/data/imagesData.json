@@ -1,0 +1,22 @@
+{
+  "problemMainImage": {
+    "url": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "caption": {
+      "text": "Fluctiación de los valores de las principales empresas de software en Wall Street durante las ultimas 24hr."
+    }
+  },
+  "officeImage": {
+    "url": "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "caption": {
+      "text": "Oficinas de Coders antes de la pandemia.",
+      "author": "Marc Mueller para pexels.com"
+    }
+  },
+  "homeOfficeImage": {
+    "url": "https://images.pexels.com/photos/3787903/pexels-photo-3787903.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "caption": {
+      "text": "",
+      "author": "Bongkarn Thanyakij para pexels.com"
+    }
+  }
+}

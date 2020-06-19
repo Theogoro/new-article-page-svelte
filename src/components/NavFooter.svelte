@@ -15,6 +15,7 @@
     border-radius: 3px;
     padding: 3px;
     text-transform: uppercase;
+    font-weight: bold;
     margin-right: 10px;
   }
 </style>
