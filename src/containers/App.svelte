@@ -32,9 +32,6 @@
     font-size: 1.4rem;
   }
 
-  :global(.NewContainer-item p) {
-    text-indent: 10px;
-  }
   .App {
     background-color: #f7f7f7;
   }

@@ -8,6 +8,9 @@
     width: 600px;
     margin: 40px auto;
   }
+  :global(.NewContainer-item p) {
+    text-indent: 20px;
+  }
 
   @media (max-width: 600px) {
     .NewContainer {

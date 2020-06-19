@@ -8,8 +8,9 @@
   </p>
   <br />
   <p>
-    Algunas empresas están en proceso para adaptarse al teletrabajo, pero no
-    consiguen llegar al nivel de productividad y calidad con el que venian
-    trabajando.
+    Algunas empresas están en proceso para adaptarse al
+    <strong>teletrabajo</strong>
+    , pero no consiguen llegar al nivel de productividad y calidad con el que
+    venian trabajando.
   </p>
 </div>

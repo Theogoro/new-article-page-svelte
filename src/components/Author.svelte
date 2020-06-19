@@ -32,6 +32,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     line-height: 0.7rem;
+    text-indent: 0 !important;
   }
 </style>
 

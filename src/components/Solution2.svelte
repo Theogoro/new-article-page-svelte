@@ -12,6 +12,6 @@
       href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiRls6t-o7qAhUSK7kGHWK6DDQQFjAAegQIARAC&url=https%3A%2F%2Ftrello.com%2Fes&usg=AOvVaw3WmEzZYQBZuC_VANqNcQTo">
       Trello
     </a>
-    para facilitar la comunicación y coworking.
+    para facilitar la comunicación y el coworking.
   </p>
 </div>

@@ -18,6 +18,7 @@
     font-size: 1.4rem;
     line-height: 1.8rem;
     font-weight: 100;
+    text-indent: 0;
   }
   .Maintitle {
     margin-bottom: 30px;

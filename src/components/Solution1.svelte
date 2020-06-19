@@ -7,6 +7,4 @@
     espacios individuales, limpiezas más frecuentes, evitar conglomerados en
     espacios cerrados y solo utilizar una parte de los empleados
   </p>
-  <br />
-  <p />
 </div>
