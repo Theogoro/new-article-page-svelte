@@ -5,6 +5,9 @@ Este proyecyo consiste en el maquetado de una pagina para una noticia intentando
 Demo en vivo 👉: [Demo 💻💻](https://rrhh-problematica.herokuapp.com/)
 
 ## Tecnologias:
-
-- Svelte
-- Webpack
+- Frontend:
+  - Svelte
+  - Webpack
+- Backend:
+  -Heroku
+  - Express
