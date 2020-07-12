@@ -1,0 +1,74 @@
+{
+  "homeworking": {
+    "pros": [
+      {
+        "icon": "fas fa-chart-line",
+        "title": "Tendencia a mejor las productividad",
+        "description": "La capacidad y flexibilidad de los horarios ayuda e influencia a que los miembros sean más productivos."
+      },
+      {
+        "icon": "fas fa-heart",
+        "title": "Prevención de contagios",
+        "description": "Cuando cada uno de los miembros se quedan en casa se evita produzcan contagios"
+      },
+      {
+        "icon": "fas fa-user-cog",
+        "title": "Capacidad de personalizar y adaptar el trabajo a uno",
+        "description": "Cada quien puede hacer las cosas como quiere y desarrollarse de la manera más personal"
+      }
+    ],
+    "cons": [
+      {
+        "icon": "fas fa-universal-access",
+        "title": "Etapa de adaptación",
+        "description": "A causa del cambio de ambiente laborar los individuos pasaran por un periodo de adaptación."
+      },
+      {
+        "icon": "fas fa-dizzy",
+        "title": "Desorden personal",
+        "description": "Si la persona no puede ordenarse/concentrarse para trabajar desde su hogar éste no será productivo"
+      },
+      {
+        "icon": "fas fa-dollar-sign",
+        "title": "Gastos en adaptar los hogares",
+        "description": "Se generará un gasto por la compra de los equipos que los miembros necesitaran para poder realizar sus tareas"
+      }
+    ]
+  },
+  "saveOffice": {
+    "pros": [
+      {
+        "icon": "fas fa-home",
+        "title": "El hogar para relajarse, la oficina para trabajar",
+        "description": "Al separa el lugar de trabajo del hogar, el miembro siente que su casa es su lugar de esparcimiento y la oficina para trabajar. ."
+      },
+      {
+        "icon": "fas fa-comments",
+        "title": "Comunicación de los individuos más fácil",
+        "description": "Al encontrase en el mismo espacio físico la comunicación es más fácil por ser cara a cara."
+      },
+      {
+        "icon": "fas fa-user-plus",
+        "title": "Ayuda al estado de animo porque los miembros de la organización",
+        "description": "Los miembros ya conocen el ambiente de trabajo y no necesitan adaptarse ni mentalizarse para este."
+      }
+    ],
+    "cons": [
+      {
+        "icon": "fas fa-dollar-sign",
+        "title": "Mayores gastos en limpieza",
+        "description": "Por las nuevas regulaciones  se comenzó a solicitar limpieza de los espacios y herramientas cada cierto tiempo, esto aumenta el gasto de insumos y personal."
+      },
+      {
+        "icon": "fas fa-ban",
+        "title": "Dependencia del estado de la cuarentena y sus restricciones",
+        "description": "Se genera una dependencia a que las restricciones no impidan que los empleados de no esenciales puedan ir a trabajar."
+      },
+      {
+        "icon": "fas fa-viruses",
+        "title": "Posibilidad de contagio",
+        "description": "Dado que va a haber circulación de personas existe la posibilidad de que se produzca algún contagio o foco de infección."
+      }
+    ]
+  }
+}
