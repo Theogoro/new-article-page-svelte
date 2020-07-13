@@ -9,12 +9,12 @@
       {
         "icon": "fas fa-heart",
         "title": "Prevención de contagios",
-        "description": "Cuando cada uno de los miembros se quedan en casa se evita produzcan contagios"
+        "description": "Cuando cada uno de los miembros se quedan en casa se evita produzcan contagios."
       },
       {
         "icon": "fas fa-user-cog",
         "title": "Capacidad de personalizar y adaptar el trabajo a uno",
-        "description": "Cada quien puede hacer las cosas como quiere y desarrollarse de la manera más personal"
+        "description": "Cada quien puede hacer las cosas como quiere y desarrollarse de la manera más personal."
       }
     ],
     "cons": [
@@ -26,12 +26,12 @@
       {
         "icon": "fas fa-dizzy",
         "title": "Desorden personal",
-        "description": "Si la persona no puede ordenarse/concentrarse para trabajar desde su hogar éste no será productivo"
+        "description": "Si la persona no puede ordenarse/concentrarse para trabajar desde su hogar éste no será productivo."
       },
       {
         "icon": "fas fa-dollar-sign",
         "title": "Gastos en adaptar los hogares",
-        "description": "Se generará un gasto por la compra de los equipos que los miembros necesitaran para poder realizar sus tareas"
+        "description": "Se generará un gasto por la compra de los equipos que los miembros necesitaran para poder realizar sus tareas."
       }
     ]
   },
@@ -40,7 +40,7 @@
       {
         "icon": "fas fa-home",
         "title": "El hogar para relajarse, la oficina para trabajar",
-        "description": "Al separa el lugar de trabajo del hogar, el miembro siente que su casa es su lugar de esparcimiento y la oficina para trabajar. ."
+        "description": "Al separa el lugar de trabajo del hogar, el miembro siente que su casa es su lugar de esparcimiento y la oficina para trabajar."
       },
       {
         "icon": "fas fa-comments",
