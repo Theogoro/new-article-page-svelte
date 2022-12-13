@@ -35,7 +35,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "svelte": "^3.23.2"
   }
 }
